@@ -23,7 +23,7 @@ export function Form() {
       .then((response) => response.json())
       .then((json) => {
         console.log(json);
-        alert("Form submitted");
+        alert("Your post has been added successfully!");
       });
   };
   return (
