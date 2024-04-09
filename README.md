@@ -43,15 +43,22 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Hero section:
 ![image](https://github.com/lorstenoplo/sociale/assets/69671750/8722f9a9-2d91-488a-9a91-89ef6385ab32)
 
-## Main section:
+## Main section containing albums of different users:
 ![image](https://github.com/lorstenoplo/sociale/assets/69671750/6e9e06ef-582e-4ceb-98eb-132a205d9579)
+
+# Single album page:
+
+![image](https://github.com/lorstenoplo/sociale/assets/69671750/5d4c5ef9-d03d-4859-93ee-fdc56d54cfef)
+
 
 # Create Post page:
 
-Here I have three js for rendering the globe (similar to the one on github's website)
+Here I have used three js for rendering the globe (similar to the one on github's website)
+
 ![image](https://github.com/lorstenoplo/sociale/assets/69671750/4d5de698-3c2b-41fa-bcc1-426107c693ff)
 
-This the section to add a post using json typecode api:
+This is the section to add a post using json typecode api:
+
 ![image](https://github.com/lorstenoplo/sociale/assets/69671750/51d6e850-ff0d-4d67-87f6-436546a1b184)
 
 
