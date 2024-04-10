@@ -16,6 +16,13 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Project Structure:
+
+- /pages - contains all the routes (file based routing)
+- /public - images, icons
+- /styles - global styling files
+- /utils - contains 
+
 ## Documentation of the process followed:
 
 - I bootstraped the project with Nextjs using create-next-app
