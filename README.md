@@ -21,7 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - /pages - contains all the routes (file based routing)
 - /public - images, icons
 - /styles - global styling files
-- /utils - contains 
+- /utils - contains files needed in multiple places, like theme object
+- /components - contains common components like navbar
+- /components/route_name - contains sections/react components specific to that page
+- /data - contains json data needed for 3d globe in /create page
 
 ## Documentation of the process followed:
 
